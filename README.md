@@ -108,38 +108,34 @@ bash
 13. Form & Tabel Kegiatan
     <span style="color:gray">Edit app/filament/Resource/Kegiatans/KegiatanResource.php</span>
     <br> 
-    <![WhatsApp Image 2025-11-07 at 17 34 43_146a6e4d](https://github.com/user-attachments/assets/07f30884-5a34-42f3-a08a-7b9a996cc2be)>
->
+  ![WhatsApp Image 2025-11-07 at 17 34 43_305f8d2d](https://github.com/user-attachments/assets/e1a6c065-d886-4e8b-b280-2e6bb12d76a4)
+
 
     <br>
 
     <span style="color:gray">Edit app/filament/Resource/Kegiatans/Schemas/KegiatansForm.php</span>
     <br> 
-    <![WhatsApp Image 2025-11-07 at 17 34 45_d773c767](https://github.com/user-attachments/assets/3e900d17-8f8a-46e2-97f6-71732c2c94c8)>
-
+  ![WhatsApp Image 2025-11-07 at 17 34 45_88a98485](https://github.com/user-attachments/assets/c5e37f85-ced8-4394-8d97-3c7dfcc1f52c)
     <br> 
 
     <span style="color:gray">Edit app/filament/Resource/Kegiatans/Tables/KegiatansTable.php</span>
     <br> 
-    <![WhatsApp Image 2025-11-07 at 17 34 44_60301ea4](https://github.com/user-attachments/assets/75af2b4b-d50b-4d4e-9afd-5974dea7cd11)>
+   ![WhatsApp Image 2025-11-07 at 17 34 44_c7b49a07](https://github.com/user-attachments/assets/c4f58581-fa76-421d-83dd-d4794909a8dc)
 
 14. Form & Tabel Siswa 
     <span style="color:gray">Edit app/filament/Resource/Siswas/SiswaResource.php</span>
     <br> 
-    <![WhatsApp Image 2025-11-07 at 17 34 45_c9c127ef](https://github.com/user-attachments/assets/8113f2b9-05e1-4b38-a63a-19005867952d)>
-
+   ![WhatsApp Image 2025-11-07 at 17 34 45_9ec0927d](https://github.com/user-attachments/assets/6f0ec8f1-a192-4453-8093-eefcd94cc8a3)
     <br>
 
     <span style="color:gray">Edit app/filament/Resource/Siswas/Schemas/SiswaForm.php</span>
     <br> 
-    <![WhatsApp Image 2025-11-07 at 17 34 45_591a9f26](https://github.com/user-attachments/assets/213aa039-039b-46fb-9758-49217effe9fa)>
-
+   ![WhatsApp Image 2025-11-07 at 17 34 45_f0d50789](https://github.com/user-attachments/assets/b1dbc6c3-a414-4c7b-bc8a-529918531cb2)
     <br> 
 
     <span style="color:gray">Edit app/filament/Resource/Siswa/Tables/SiswaTable.php</span>
     <br> 
-    <![WhatsApp Image 2025-11-07 at 17 34 44_64177eb7](https://github.com/user-attachments/assets/0831f537-db5f-4617-9f9d-b2f41641ed8e)
-
+  ![WhatsApp Image 2025-11-07 at 17 34 44_c7557f6d](https://github.com/user-attachments/assets/0cf7c7a8-8f87-41e9-8ab0-35624cde4d92)
     <br> 
 
     <span style="color:gray">Edit app/Models/Kegiatan.php</span>
@@ -190,18 +186,18 @@ bash
 1. Login  
 <br>
 
-![Login](![WhatsApp Image 2025-11-07 at 17 20 22_a6195d59](https://github.com/user-attachments/assets/13c14011-05b7-46b2-900d-bffa060c753a)
+![WhatsApp Image 2025-11-07 at 17 20 22_c0e035f3](https://github.com/user-attachments/assets/348c361d-7826-4804-ad90-c2532dbbcf74)
 )
 
 2. Admin
 <br>
 
 
-![Admin](![WhatsApp Image 2025-11-07 at 17 21 30_ab5be516](https://github.com/user-attachments/assets/3183c187-7ed5-451a-bba5-f29ffc203498)
+![WhatsApp Image 2025-11-07 at 17 21 30_1092695c](https://github.com/user-attachments/assets/64b6d47a-8a16-4695-bb7a-dde5ddfab47e)
 )
 
 3. Kegiatan
 <br>
 
-![Kegiatan](![WhatsApp Image 2025-11-07 at 17 20 08_e753b6b3](https://github.com/user-attachments/assets/ab9538b9-4e7f-4ba2-97b9-0d94cd1a6261)
+![WhatsApp Image 2025-11-07 at 17 20 08_4855098c](https://github.com/user-attachments/assets/f786d96b-00a1-44b6-a595-826c5eb7a152)
 )
